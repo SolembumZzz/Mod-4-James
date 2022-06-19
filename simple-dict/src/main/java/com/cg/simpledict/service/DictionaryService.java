@@ -8,8 +8,7 @@ import java.util.HashMap;
 @Service
 public class DictionaryService implements IDictionaryService {
     static HashMap<String, String> simpleDict = new HashMap<>();
-
-
+    
     static {
         simpleDict.put("teenager", "thieu nien");
         simpleDict.put("mutant", "dot bien");
@@ -29,6 +28,6 @@ public class DictionaryService implements IDictionaryService {
 
     @Override
     public String beautifyKeyword(String keyword) {
-        return keyword.toLowerCase().trim();
+        return keyword.trim().toLowerCase();
     }
 }
