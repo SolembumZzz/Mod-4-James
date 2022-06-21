@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="form-tutorial-spring-mvc-maven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>form-tutorial-spring-mvc-maven</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="product-manager-thymeleaf-maven-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="form-tutorial-spring-mvc-maven:war exploded" />
+    </root>
+  </artifact>
+</component>

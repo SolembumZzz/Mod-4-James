@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Create a new employee</title>
+</head>
+
+<body>
+<h3>Welcome, Enter The Employee Details</h3>
+<form th:method="post" th:action="addEmployee" th:object="${employee}">
+    <table>
+        <tr>
+            <td><label for="id">Employee ID: </label></td>
+            <td><input id="id" type="number" th:field="*{id}"/></td>
+        </tr>
+        <tr>
+            <td><label for="name">Employee's name: </label></td>
+            <td><input id="name" type="text" th:field="*{name}"/></td>
+        </tr>
+        <tr>
+            <td><label for="contactNumber">Contact's number: </label></td>
+            <td><input id="contactNumber" type="number" th:field="*{contactNumber}"/></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Submit"/></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>

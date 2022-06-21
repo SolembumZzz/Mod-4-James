@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="form-tutorial-spring-mvc-maven:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="804f9e6a-e59e-4025-8620-27745281bd69" name="Changes" comment="123">
+    <list default="true" id="5227bcb9-dea1-4e08-8824-d8631e8dfafb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/form_tutorial_spring_mvc_maven_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/form_tutorial_spring_mvc_maven_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/configuration/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/configuration/ApplicationInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/employee/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/employee/info.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/artifacts/product_manager_thymeleaf_maven_war.xml" afterDir="false" />
@@ -23,24 +46,18 @@
       <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/model/Product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management-thymeleaf/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management-thymeleaf/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management-thymeleaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management-thymeleaf/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Interface" />
         <option value="HTML File" />
       </list>
     </option>
@@ -58,7 +75,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2ApbRdCVNBqtTQ08eASyYJrPfpT" />
+  <component name="ProjectId" id="2ArocTxpb6ARl4Mwfea7WrzBR0V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -69,35 +86,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Warehouse/IdeaProjects/mod-4-james/product-manager-thymeleaf-maven",
-    "spring.configuration.checksum": "7745dd3173f1530345f14c3876948ea3"
+    "last_opened_file_path": "D:/Warehouse/IdeaProjects/mod-4-james/form-tutorial-spring-mvc-maven/src/main/java/com/codegym"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Warehouse\IdeaProjects\mod-4-james\customer-management-thymeleaf\src\main\java\com\codegym\configuration" />
+      <recent name="D:\Warehouse\IdeaProjects\mod-4-james\form-tutorial-spring-mvc-maven\src\main\java\com\codegym" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Warehouse\IdeaProjects\mod-4-james\customer-management-thymeleaf\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\Warehouse\IdeaProjects\mod-4-james\form-tutorial-spring-mvc-maven\src\main\java" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.64" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.64" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
-        <artifact name="Gradle : com.codegym : customer-management-thymeleaf-1.0-SNAPSHOT.war">
+        <artifact name="form-tutorial-spring-mvc-maven:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="69148011-8b53-416e-b879-fad82df8e229" />
+        <option name="BASE_DIRECTORY_NAME" value="74704830-ce7b-4570-84a5-fd0df648e9e1" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -105,7 +121,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="49523" />
+        <option name="DEBUG_PORT" value="50306" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -170,7 +186,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Gradle : com.codegym : customer-management-thymeleaf-1.0-SNAPSHOT.war" />
+          <artifact name="form-tutorial-spring-mvc-maven:war exploded" />
         </option>
       </method>
     </configuration>
@@ -178,23 +194,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="804f9e6a-e59e-4025-8620-27745281bd69" name="Changes" comment="" />
-      <created>1655709468641</created>
+      <changelist id="5227bcb9-dea1-4e08-8824-d8631e8dfafb" name="Changes" comment="" />
+      <created>1655777147094</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1655709468641</updated>
-      <workItem from="1655709469929" duration="7589000" />
-      <workItem from="1655736402256" duration="1568000" />
-      <workItem from="1655775673587" duration="130000" />
+      <updated>1655777147094</updated>
+      <workItem from="1655777148633" duration="5462000" />
     </task>
-    <task id="LOCAL-00001" summary="123">
-      <created>1655716763304</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1655716763304</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +219,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
 </project>
