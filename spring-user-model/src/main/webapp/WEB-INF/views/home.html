@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<h3>Home</h3>
+<form th:action="login" th:method="post" th:object="${login}">
+    <fieldset>
+        <legend>Login</legend>
+        <table>
+            <tr>
+                <td><label for="account">Account:</label></td>
+                <td><input id="account" th:field="*{account}"/></td>
+            </tr>
+            <tr>
+                <td><label for="password">Password:</label></td>
+                <td><input id="password" th:field="*{password}"/></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button type="submit">Login</button></td>
+            </tr>
+        </table>
+    </fieldset>
+</form>
+</body>
+</html>

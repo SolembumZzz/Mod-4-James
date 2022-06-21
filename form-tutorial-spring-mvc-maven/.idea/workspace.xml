@@ -9,45 +9,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5227bcb9-dea1-4e08-8824-d8631e8dfafb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/form_tutorial_spring_mvc_maven_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/form_tutorial_spring_mvc_maven_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/configuration/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/configuration/ApplicationInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/employee/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/employee/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/artifacts/product_manager_thymeleaf_maven_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/artifacts/product_manager_thymeleaf_maven_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/configuration/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/configuration/ApplicationInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customer-management-thymeleaf/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management-thymeleaf/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customer-management-thymeleaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management-thymeleaf/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5227bcb9-dea1-4e08-8824-d8631e8dfafb" name="Changes" comment="gya">
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/com/codegym/configuration/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/com/codegym/configuration/ApplicationInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/com/codegym/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/com/codegym/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/webapp/WEB-INF/views/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/webapp/WEB-INF/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/webapp/WEB-INF/views/user.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,8 +177,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655777147094</updated>
-      <workItem from="1655777148633" duration="5462000" />
+      <workItem from="1655777148633" duration="7771000" />
     </task>
+    <task id="LOCAL-00001" summary="gya">
+      <created>1655793659995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655793659996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,5 +205,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="gya" />
+    <option name="LAST_COMMIT_MESSAGE" value="gya" />
   </component>
 </project>
