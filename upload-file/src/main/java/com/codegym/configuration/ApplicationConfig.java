@@ -60,11 +60,10 @@ public class ApplicationConfig extends WebMvcConfigurerAdapter implements Applic
         return viewResolver;
     }
 
-    //Upload FIles
+    //Add accessible resource files
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
-        registry.addResourceHandler("/image/**")
-                .addResourceLocations("file:" + fileUpload);
+        registry.addResourceHandler("/image/**").addResourceLocations("file:" + fileUpload);
 
     }
 

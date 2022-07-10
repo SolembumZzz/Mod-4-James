@@ -5,26 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="804f9e6a-e59e-4025-8620-27745281bd69" name="Changes" comment="123">
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/artifacts/product_manager_thymeleaf_maven_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/artifacts/product_manager_thymeleaf_maven_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/configuration/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/configuration/ApplicationInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../product-manager-thymeleaf-maven/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/.idea/artifacts/springMVC_modelAndView_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/.idea/artifacts/springMVC_modelAndView_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/java/com/codegym/configuration/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/java/com/codegym/configuration/ApplicationInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/java/com/codegym/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/webapp/WEB-INF/views/create-customer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/webapp/WEB-INF/views/edit-customer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/webapp/WEB-INF/views/list-customer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/webapp/WEB-INF/views/suspend-customer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/webapp/WEB-INF/views/transaction/deposit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/webapp/WEB-INF/views/transaction/transfer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC-modelAndView/src/main/webapp/WEB-INF/views/transaction/withdraw.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload-file/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../upload-file/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload-file/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../upload-file/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload-file/src/main/java/com/codegym/configuration/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../upload-file/src/main/java/com/codegym/configuration/ApplicationConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +82,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Warehouse/IdeaProjects/mod-4-james/product-manager-thymeleaf-maven",
+    "last_opened_file_path": "D:/Warehouse/IdeaProjects/mod-4-james/customer-management-thymeleaf",
     "spring.configuration.checksum": "7745dd3173f1530345f14c3876948ea3"
   }
 }]]></component>
@@ -186,6 +194,7 @@
       <workItem from="1655709469929" duration="7589000" />
       <workItem from="1655736402256" duration="1568000" />
       <workItem from="1655775673587" duration="130000" />
+      <workItem from="1655829602266" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1655716763304</created>
